@@ -1,4 +1,4 @@
-require "require_all"
+require "require_all" #comment test
 
 require_relative "../../config/environment"
 require_all "app/models/*.rb"
